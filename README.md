@@ -1,1 +1,3 @@
 # smokin
+
+tabakas baudīšanas režīms
