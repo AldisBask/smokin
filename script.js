@@ -9,13 +9,11 @@ document.addEventListener('DOMContentLoaded', function () {
     const events = [
       { start: '07:20:00', message: 'Laiks baudīt tabaku!' },
       { start: '07:35:00', message: 'Laiks baudīt tabaku!' },
-      { start: '09:00:00', message: 'Laiks baudīt tabaku!' },
       { start: '10:00:00', message: 'Laiks baudīt tabaku!' },
       { start: '11:00:00', message: 'Laiks baudīt tabaku!' },
       { start: '12:10:00', message: 'Laiks baudīt tabaku!' },
       { start: '13:35:00', message: 'Laiks baudīt tabaku!' },
       { start: '15:00:00', message: 'Laiks baudīt tabaku!' },
-      { start: '16:00:00', message: 'Laiks baudīt tabaku!' },
       { start: '17:05:00', message: 'Laiks baudīt tabaku!' }
     ];
 
